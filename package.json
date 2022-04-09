@@ -20,7 +20,7 @@
     "debounce": "^1.2.0",
     "firebase": ">= 5.5.7 <7",
     "jquery": "1.9.1 - 3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "normalize-scss": "^7.0.1",
     "popper.js": "^1.14.7",
     "rxjs": "^6.5.2",
